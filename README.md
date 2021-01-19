@@ -1,5 +1,8 @@
 # Getting Started with Create React App
-
+ 
+ This is a silly test to see if I can successfully git push ftom my phone.. 
+ wouldnt THAT be a dteam come true lol...
+ 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
